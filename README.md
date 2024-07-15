@@ -54,9 +54,9 @@ Once you have the project set up, you can use the website as follows:
 Here's an overview of the project structure:
 
 RUDRAGAURI-FUN-MART/
-│
-├── api/
-│ └── products.json # JSON file containing product data
+│ <br />
+├── api/ <br />
+│ └── products.json # JSON file containing product data <br />
 │
 ├── public/
 │ ├── Assets/
