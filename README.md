@@ -57,37 +57,37 @@ RUDRAGAURI-FUN-MART/
 │ <br />
 ├── api/ <br />
 │ └── products.json # JSON file containing product data <br />
-│
-├── public/
-│ ├── Assets/
-│ │ ├── Logo/
-│ │ └── Products/
-│ ├── Pages/
-│ │ |── about.html
-│ │ |── addToCart.html
-│ │ |── contact.html
-│ │ └── products.html
-│ ├── Scripts/
-│ │ ├── addTocart.js
-│ │ ├── fetchQuantityFromCartLS.js
-│ │ ├── footer.js
-│ │ ├── getCartProductFromLS.js
-│ │ ├── homeProductCards.js
-│ │ ├── homeQuantityToggle.js
-│ │ ├── incrementDecrement.js
-│ │ ├── removeProductFromCart.js
-│ │ ├── showAddToCartCards.js
-│ │ ├── showToast.js
-│ │ ├── updateCartProductTotal.js
-│ │ └── updateCartValue.js
-│ │
-│ ├── .gitignore
-│ ├── index.html
-│ ├── main.js
-│ ├── package-lock.json
-│ ├── package.json
-│ └── style.css
-│
-└── README.md
+│ <br />
+├── public/ <br />
+│ ├── Assets/ <br />
+│ │ ├── Logo/ <br />
+│ │ └── Products/ <br />
+│ ├── Pages/ <br />
+│ │ |── about.html <br />
+│ │ |── addToCart.html <br />
+│ │ |── contact.html <br />
+│ │ └── products.html <br />
+│ ├── Scripts/ <br />
+│ │ ├── addTocart.js <br />
+│ │ ├── fetchQuantityFromCartLS.js <br />
+│ │ ├── footer.js <br />
+│ │ ├── getCartProductFromLS.js <br />
+│ │ ├── homeProductCards.js <br />
+│ │ ├── homeQuantityToggle.js <br />
+│ │ ├── incrementDecrement.js <br />
+│ │ ├── removeProductFromCart.js <br />
+│ │ ├── showAddToCartCards.js <br />
+│ │ ├── showToast.js <br />
+│ │ ├── updateCartProductTotal.js <br />
+│ │ └── updateCartValue.js <br />
+│ │ <br />
+│ ├── .gitignore <br />
+│ ├── index.html <br />
+│ ├── main.js <br />
+│ ├── package-lock.json <br />
+│ ├── package.json <br />
+│ └── style.css <br />
+│ <br />
+└── README.md <br />
 
 Thank you for visiting RudraGauri Fun Mart! We hope you enjoy using our eCommerce website.
