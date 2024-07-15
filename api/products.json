@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Pro - Space Black",
+    "category": "Computers",
+    "brand": "Apple",
+    "price": 399900.0,
+    "stock": 108,
+    "description": "Apple M3 Max chip with 16‑core CPU, 40‑core GPU and 16‑core Neural Engine",
+    "image": "../Assets/Products/macbookpro-16inch.png"
+  },
+
+  {
+    "id": 2,
+    "name": "MacBook Pro - Space Black",
+    "category": "Computers",
+    "brand": "Apple",
+    "price": 769700.0,
+    "stock": 108,
+    "description": "Apple M3 Max chip with 16‑core CPU, 40‑core GPU and 16‑core Neural Engine",
+    "image": "../Assets/Products/macbookpro-16inch.png"
+  },
+
+  {
+    "id": 3,
+    "name": "iPhone 15 Pro Max 1TB White Titanium",
+    "category": "Smart Phones",
+    "brand": "Apple",
+    "price": 220800.0,
+    "stock": 108,
+    "description": "Your new iPhone 15 Pro Max. Just the way you want it.",
+    "image": "../Assets/Products/iphone-15-pro-max.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "AirPods Max - Green",
+    "category": "Headphones",
+    "brand": "Apple",
+    "price": 67800.0,
+    "stock": 108,
+    "description": "Your new AirPods Max. Just the way you want it.",
+    "image": "../Assets/Products/airpods-pro-max.jpg"
+  },
+
+  {
+    "id": 5,
+    "name": "Apple Watch Ultra 2 ",
+    "category": "Watch",
+    "brand": "Apple",
+    "price": 99800.0,
+    "stock": 108,
+    "description": "Apple Watch Ultra 2 GPS + Cellular, 49mm Titanium Case with Orange/Beige Trail Loop - M/L.",
+    "image": "../Assets/Products/apple-watch-ultra-2.jpeg"
+  },
+
+  {
+    "id": 6,
+    "name": "Apple HomePod",
+    "category": "Speakers",
+    "brand": "Apple",
+    "price": 36800.00,
+    "stock": 108,
+    "description": "Your new Apple Pods. Just the way you want it.",
+    "image": "../Assets/Products/apple-pods.jpeg"
+  },
+
+  {
+    "id": 7,
+    "name": "Apple Pro Display XDR",
+    "category": "Television",
+    "brand": "Apple",
+    "price": 624900,
+    "stock": 108,
+    "description": "81.28 cm (32inch) Retina 6K. Astonishing colour accuracy. Super-wide viewing angle. And Extreme Dynamic Range.",
+    "image": "../Assets/Products/apple-display-pro.jpg"
+  },
+
+  {
+    "id": 8,
+    "name": "Apple TV 4k",
+    "category": "Television",
+    "brand": "Apple",
+    "price": 19800,
+    "stock": 108,
+    "description": "Apple TV 4k , Wi-Fi + Ethernet with 128gb Storage.",
+    "image": "../Assets/Products/apple-tv-4k.jpeg"
+  },
+
+  {
+    "id": 9,
+    "name": "Apple iPad Pro",
+    "category": "Smart Tabs",
+    "brand": "Apple",
+    "price": 323600,
+    "stock": 108,
+    "description": "Personalised 13 iPad Pro Wi-Fi + Cellular 2TB with nano-texture glass - Silver, Personalised Apple Pencil Pro, Magic Keyboard for iPad Pro 13 (M4) - US English - White",
+    "image": "../Assets/Products/ipad-pro-13.jpeg"
+  }
+
+]
