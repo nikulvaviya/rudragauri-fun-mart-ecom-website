@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/rudragauri-fun-mart-ecom-website.git
+    git clone https://github.com/nikulvaviya/rudragauri-fun-mart-ecom-website.git
     ```
 
 2. Navigate to the project directory:
